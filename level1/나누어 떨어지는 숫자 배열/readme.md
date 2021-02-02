@@ -15,3 +15,8 @@
 
 > min TaseCase : 0.00ms, 10.1MB  
 > max TaseCase : 2.64ms, 13.3MB  
+
+**2021-02-02**
+
+> min TaseCase : 0.00ms, 10.2MB  
+> max TaseCase : 2.92ms, 13.4MB  
