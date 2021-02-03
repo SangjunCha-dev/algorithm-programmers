@@ -18,3 +18,12 @@
 
 > min TaseCase : 0.01ms, 10.2MB  
 > max TaseCase : 0.12ms, 10.1MB  
+
+### 방법2
+
+1. (100 - progresses) // speeds 결과값이 작업 소요일자
+
+**2021-02-03**
+
+> min TaseCase : 0.01ms, 10.1MB  
+> max TaseCase : 0.03ms, 10.1MB  
